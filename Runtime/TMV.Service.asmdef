@@ -1,0 +1,6 @@
+{
+  "name": "TMV.Service",
+  "rootNamespace": "TMV.Service",
+  "references": [],
+  "autoReferenced": true
+}

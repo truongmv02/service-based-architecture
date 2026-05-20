@@ -1,0 +1,13 @@
+{
+  "name": "TMV.Service.Tests.EditMode",
+  "rootNamespace": "TMV.Service.Tests",
+  "references": ["TMV.Service", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "overrideReferences": true,
+  "allowUnsafeCode": false,
+  "autoReferenced": false,
+  "precompiledReferences": ["nunit.framework.dll"],
+  "noEngineReferences": false
+}

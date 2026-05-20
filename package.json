@@ -1,0 +1,22 @@
+{
+  "name": "com.tmv.service",
+  "version": "1.0.0",
+  "displayName": "TMV Service",
+  "description": "Thread-safe service container for Unity. Supports Singleton and Transient lifetimes, auto-dispose via IService, and an optional static ServiceLocator facade.",
+  "unity": "2022.3",
+  "author": {
+    "name": "truongmv"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truongmv02/service-based-architecture.git"
+  },
+  "samples": [
+    {
+      "displayName": "Service Sample",
+      "description": "Demonstrates registering, resolving, and replacing services at runtime using ScoreService and AudioService.",
+      "path": "Samples~"
+    }
+  ]
+}

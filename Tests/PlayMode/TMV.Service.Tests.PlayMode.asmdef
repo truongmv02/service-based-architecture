@@ -1,0 +1,10 @@
+{
+  "name": "TMV.Service.Tests.PlayMode",
+  "rootNamespace": "TMV.Service.Tests",
+  "references": ["TMV.Service", "UnityEngine.TestRunner"],
+  "overrideReferences": true,
+  "allowUnsafeCode": false,
+  "autoReferenced": false,
+  "precompiledReferences": ["nunit.framework.dll"],
+  "noEngineReferences": false
+}
